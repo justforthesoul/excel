@@ -1,0 +1,16 @@
+Webpack
+    babel
+    scss
+    eslint
+    2 modes
+        -dev
+            dev server
+            sourcemaps
+            eslint
+            not minified js
+        -prod
+            minified js
+Git
+    -dev
+    -prod
+
